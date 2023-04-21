@@ -7,11 +7,11 @@ class Smtp:
 
     def __init__(self):
         # 发件人
-        self.from_name = "xxx"
+        self.from_name = "赵博"
         # 发件邮箱
-        self.from_addr = "xxx"
+        self.from_addr = "974475528@qq.com"
         # 发件邮箱授权码
-        self.from_pwd = "xxx"
+        self.from_pwd = "hgfxucsiaeurbfaa"
         # SMTP服务器地址，QQ邮箱的SMTP地址是"smtp.qq.com"
         self.smtp_srv = "smtp.qq.com"
         # SMTP服务器端口
